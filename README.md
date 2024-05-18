@@ -1,5 +1,4 @@
-
-## Opa! Eu sou o Guigas 🖐
+[![Instagram](https://media.discordapp.net/attachments/720813300568293409/1241450861700583434/logo-guigas-minuscula.png?ex=664a3eb6&is=6648ed36&hm=c2ac1e2ba0fcb290db4610b2730b03878e0c4d2d5b4efebab16cdfff4703f176&=&format=webp&quality=lossless&width=220&height=132)](https://github.com/guigasdev)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/oguigas_)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-pereiradev/)
