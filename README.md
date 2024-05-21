@@ -24,7 +24,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-![Top Langs Guigas](https://github-readme-stats.vercel.app/api/top-langs/?username=guigasdev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guigasdev&langs_count=5)
 
 <blockquote>
         many of the truths we cling to depend greatly on our own point of view <footer>- Yoda</footer>
