@@ -26,8 +26,10 @@
 
 ![Top Langs Guigas](https://github-readme-stats.vercel.app/api/top-langs/?username=guigasdev&layout=compact)
 
-Amante de tecnologia, educação e evolução, graduando de Análise e Desenvolvimento de Sistemas.
-
+<blockquote>
+        many of the truths we cling to depend greatly on our own point of view <footer>- Yoda</footer>
+        
+</blockquote>
 
 <img align="center" alt="guigas" src="https://media.discordapp.net/attachments/720813300568293409/1241450861700583434/logo-guigas-minuscula.png?ex=664a3eb6&is=6648ed36&hm=c2ac1e2ba0fcb290db4610b2730b03878e0c4d2d5b4efebab16cdfff4703f176&=&format=webp&quality=lossless&width=220&height=132"/>
 
