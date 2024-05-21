@@ -27,7 +27,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guigasdev&langs_count=5)
 
 <blockquote>
-        many of the truths we cling to depend greatly on our own point of view <footer>- Yoda</footer>
+        many of the truths we cling to depend greatly on our own point of view <footer>- Obi-Wan</footer>
         
 </blockquote>
 
