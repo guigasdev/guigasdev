@@ -27,9 +27,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guigasdev&langs_count=5)
 
 <blockquote>
-        many of the truths we cling to depend greatly on our own point of view <footer>- ObiWan</footer>
+        Be so good they can't ignore you <footer>- Steve Martin</footer>
         
 </blockquote>
 
-<img align="center" alt="guigas" src="https://media.discordapp.net/attachments/720813300568293409/1241450861700583434/logo-guigas-minuscula.png?ex=664a3eb6&is=6648ed36&hm=c2ac1e2ba0fcb290db4610b2730b03878e0c4d2d5b4efebab16cdfff4703f176&=&format=webp&quality=lossless&width=220&height=132"/>
 
