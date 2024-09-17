@@ -1,17 +1,17 @@
-# Hi there, how it's going ? 🖐
+# Opa, como vai? ? 🖐
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/oguigas_)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-pereiradev/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JRzQBAmmMU)
 
-## My name is Guilherme
+## Me chamo Guilherme
 
 <ul>
-        <li>🎓📚 ADS Student at <a href="https://www.unifor.br" target="_blank">@Unifor</a> </li>
+        <li>🎓📚 Estudante de ADS na <a href="https://www.unifor.br" target="_blank">@Unifor</a> </li>
         <li> 💻 Developer </li>
-        <li> 👨‍💻 Passionate about development</li>
-        <li> 💡 like a new good challenge</li>
+        <li> 👨‍💻 Apaixonado por programação</li>
+        <li> 💡 Sempre em busca de um novo desafio</li>
     </ul>
 
 <div style="display: inline_block">
